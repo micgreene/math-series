@@ -4,7 +4,7 @@
 
 + This program is comprised of two functions:
   1. *A function that returns the nth value in the fibonacci series.*
-  2. + *A function that returns the nth value in the lucas series.*
+  2. *A function that returns the nth value in the lucas series.*
 
 ### Feature Tasks and Requirements
 
