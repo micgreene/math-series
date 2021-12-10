@@ -23,8 +23,8 @@
 
 ### Pull Request
 
-+ [snakes-cafe/pull/1](URL 'https://github.com/micgreene/snakes-cafe/pull/1')
++ [math-series/pull/1](URL 'https://github.com/micgreene/math-series/pull/1')
 
 ### README
 
-+ [github.com/micgreene/snakes-cafe/blob/master/README.md](URL 'https://github.com/micgreene/snakes-cafe/blob/master/README.md')
++ [github.com/micgreene/math-series/blob/dev/README.md](URL 'https://github.com/micgreene/math-series/blob/dev/README.md')
